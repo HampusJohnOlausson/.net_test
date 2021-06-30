@@ -1,0 +1,15 @@
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/Persistence.pdb

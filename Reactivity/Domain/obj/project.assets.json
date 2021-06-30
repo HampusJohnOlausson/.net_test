@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hampus/Reactivity/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/hampus/Desktop/Projekt GIthub/Reactivity/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/hampus/Reactivity/Domain/Domain.csproj",
+      "projectPath": "/Users/hampus/Desktop/Projekt GIthub/Reactivity/Domain/Domain.csproj",
       "packagesPath": "/Users/hampus/.nuget/packages/",
-      "outputPath": "/Users/hampus/Reactivity/Domain/obj/",
+      "outputPath": "/Users/hampus/Desktop/Projekt GIthub/Reactivity/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hampus/.nuget/NuGet/NuGet.Config"

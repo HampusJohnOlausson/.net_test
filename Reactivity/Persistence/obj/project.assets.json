@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/hampus/.nuget/packages/": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hampus/Reactivity/Persistence/Persistence.csproj",
+      "projectUniqueName": "/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "/Users/hampus/Reactivity/Persistence/Persistence.csproj",
+      "projectPath": "/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/Persistence.csproj",
       "packagesPath": "/Users/hampus/.nuget/packages/",
-      "outputPath": "/Users/hampus/Reactivity/Persistence/obj/",
+      "outputPath": "/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hampus/.nuget/NuGet/NuGet.Config"
@@ -31,7 +50,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/hampus/Desktop/Projekt GIthub/Reactivity/Domain/Domain.csproj": {
+              "projectPath": "/Users/hampus/Desktop/Projekt GIthub/Reactivity/Domain/Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

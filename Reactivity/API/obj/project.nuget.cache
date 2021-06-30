@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MbYIUCRKTd20HI+RbCOVyvrXytj6N44Kg0aCRra+HGmX72o4CJ+4PERfYpo49Jyw7k3YArcdIKjmK/4RDDwn7A==",
+  "dgSpecHash": "pPEsdm2OyVqSOSKF8qweYpI6FHHoEpSZ3J4apuznO9BF8nZJxtmL2iahD2CrALeitOQfEHE3Si+4BsO4rzW/TA==",
   "success": true,
-  "projectFilePath": "/Users/hampus/Reactivity/DotNETAPI/DotNETAPI.csproj",
+  "projectFilePath": "/Users/hampus/Desktop/Projekt GIthub/Reactivity/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/hampus/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/hampus/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
