@@ -13,6 +13,3 @@
 /Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/Persistence.dll
 /Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/ref/Persistence.dll
 /Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/Persistence.pdb
-/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.json
-/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.dev.json
-/Users/hampus/Desktop/Projekt GIthub/Reactivity/Persistence/obj/Debug/net5.0/Persistence.genruntimeconfig.cache
